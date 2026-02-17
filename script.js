@@ -171,7 +171,7 @@ passwordInput.addEventListener("input", () => {
     /* ================================================= */
 
     const prebodaMoments = [
-        { image: "assets/images/preboda1.jpeg", text: "Tampoco olvidaré nunca nuestra preboda, verte de blanco con una corona de flores. Amé completamente tenerte conmigo: Darte el anillo. Decirte mis votos. Mostrarte el video que hice con mucho amor para ti. Si así de especial fue nuestra preboda, no tengas dudas que en nuestro matrimonio será aún más mágico cielito✨ Eres y siempre serás la niña de mis ojos. Te amo infinitamente amorcito" },
+        { image: "assets/images/preboda1.jpg", text: "Tampoco olvidaré nunca nuestra preboda, verte de blanco con una corona de flores. Amé completamente tenerte conmigo: Darte el anillo. Decirte mis votos. Mostrarte el video que hice con mucho amor para ti. Si así de especial fue nuestra preboda, no tengas dudas que en nuestro matrimonio será aún más mágico cielito✨ Eres y siempre serás la niña de mis ojos. Te amo infinitamente amorcito" },
         
     ];
 
